@@ -30,8 +30,16 @@ two tasks is one hour. So, every annotation account maps to one hour of work.
 
 ### How much annotation work is needed?
 
+Based on previous WMT evaluation campaigns, the average annotation time for
+one task is 30 minutes. One task involves approximately 100 judgements.
+
 Each research team is expected to contribute **eight hours of annotation work
-per primary system** submission.
+per primary system** submission. You can allocate those work hours either
+
+- in this campaign (the instructions you are looking at right now)
+- or in our reference-based evaluation campaign on Turkle, run by Matt Post and Mathias Mueller: https://github.com/bricksdont/WMT19RefDA
+
+This translates to **16 completed tasks** in total, on Turkle or Appraise, per primary system.
 
 ### Who can be an annotator?
 
