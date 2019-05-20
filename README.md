@@ -2,6 +2,12 @@
 
 Code and issue tracker for WMT19 source-based DA campaigns
 
+## Updates
+
+- 20190520: [WMT19.appraise.cf](http://wmt19.appraise.cf) goes live, accounts shared with teams
+- 20190519: clarified annotation requirements, updated timeline
+- 20190517: created tasks and associated accounts
+
 ## TL;DR
 
 - WMT19 will feature source-based direct assessment (DA)
