@@ -12,9 +12,10 @@ Code and issue tracker for WMT19 source-based DA campaigns
 ## Timeline
 
 - 5/09: eval plan online on Github
-- 5/15--5/16: research teams request accounts
-- 5/17: annotation starts
-- 5/27: annotation ends
+- 5/15--~5/16~ 5/20: research teams request accounts
+- 5/20: accounts shared with research teams
+- ~5/17~ 5/21: annotation starts
+- ~5/27~ 6/03: annotation ends
 
 ## Campaign overview
 
