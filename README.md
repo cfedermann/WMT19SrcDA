@@ -4,6 +4,7 @@ Code and issue tracker for WMT19 source-based DA campaigns
 
 ## Updates
 
+- 20190527: Accounts are *live now*, please start your annotation work
 - 20190520: [WMT19.appraise.cf](http://wmt19.appraise.cf) goes live, accounts shared with teams
 - 20190519: clarified annotation requirements, updated timeline
 - 20190517: created tasks and associated accounts
@@ -20,8 +21,8 @@ Code and issue tracker for WMT19 source-based DA campaigns
 - 5/09: eval plan online on Github
 - 5/15--~5/16~ 5/20: research teams request accounts
 - 5/20: accounts shared with research teams
-- ~5/17~ 5/21: annotation starts
-- ~5/27~ 6/03: annotation ends
+- ~5/17~ 5/27: annotation starts
+- ~5/27~ 6/10: annotation ends
 
 ## Campaign overview
 
